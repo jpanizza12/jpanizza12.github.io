@@ -1,5 +1,4 @@
 
-body {background="myBackground.jpg";
-  background-repeat: repeat-x;}
+body {background="myBackground.jpg" background-repeat: repeat-x;}
 #nav-table { width: 800px;}    
 #nav-td { width: 266.666667px; text-align:center;}
