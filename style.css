@@ -1,3 +1,7 @@
 body { background-color: #DFEAEB;}
 #nav-table { width: 800px;}    
 #nav-td { width: 266.666667px; text-align:center;}
+ h2 {
+            color: #FFFFFF;
+            background-color: #000482;
+        }
